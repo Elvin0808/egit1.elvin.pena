@@ -5,7 +5,8 @@ public class Release {
 	private int b;
 	private int c;
 	private int d;
-
+	private int e;
+	
 	public int getA() {
 		return a;
 	}
@@ -37,4 +38,15 @@ public class Release {
 	public void setD(int d) {
 		this.d = d;
 	}
+	
+	
+	public int getE() {
+		return e;
+	}
+
+	public void setE(int e) {
+		this.e = e;
+	}
 }
+
+
